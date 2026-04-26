@@ -941,7 +941,7 @@ body {
 .video-card,
 .audio-card,
 .file-card {
-  background: linear-gradient(155deg, rgba(11, 79, 74, 0.92), rgba(15, 118, 110, 0.82)) !important;
+  background: linear-gradient(155deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)) !important;
 }
 
 .control-btn {
